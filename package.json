@@ -1,0 +1,17 @@
+{
+  "name": "jacob-johnston-success-engineer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest ./test/*.test.js"
+  },
+  "author": "johnstonjacob",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.5.0"
+  }
+}
